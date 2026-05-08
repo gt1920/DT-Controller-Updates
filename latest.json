@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.5",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.5/DT_Controller_v1.1.0.5.zip",
-    "sha256":  "026d4b6efa7c5c344477a2776260d485c46393a5aa7ec32f921e4622487d97e5",
-    "notes":  "UI: relabel update notification to \u0027New version available \u003cversion\u003e\u0027."
+    "version":  "1.1.0.6",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.6/DT_Controller_v1.1.0.6.zip",
+    "sha256":  "58f2a40a0f80ed12d4ede41d6b7a55d1c2da268dfe156c39996880b3b15226ce",
+    "notes":  "Per-axis position labels (X under right arrow, Y above up arrow); auto-select first Module on Device pick; Shift+click on Step/s steps by 1000; Goto_Zero hidden from non-admin; multi-module Step/s=1000 enforcement and rename fix."
 }
