@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.4",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.4/DT_Controller_v1.1.0.4.zip",
-    "sha256":  "d4e59c4a302e2555c99059d26b6b566ab22d0bf78a998644ac4131d98857a9c4",
-    "notes":  "Fix: holding an arrow key no longer queues repeated motion commands; one keypress = one step."
+    "version":  "1.1.0.5",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.5/DT_Controller_v1.1.0.5.zip",
+    "sha256":  "026d4b6efa7c5c344477a2776260d485c46393a5aa7ec32f921e4622487d97e5",
+    "notes":  "UI: relabel update notification to \u0027New version available \u003cversion\u003e\u0027."
 }
