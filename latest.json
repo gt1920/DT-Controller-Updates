@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.2",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.2/DT_Controller_v1.1.0.2.zip",
-    "sha256":  "513d3822bf6118d7f83daab0a4b78931da04c25d91aa0b9d25b122ca53b3ec15",
-    "notes":  "Show version in window title; first user-driven upgrade test."
+    "version":  "1.1.0.3",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.3/DT_Controller_v1.1.0.3.zip",
+    "sha256":  "58c52604ff0345d6f0dec061391aff5108633a74f2e45cc6d50b663e008ccda7",
+    "notes":  "Fix duplicate version number in title bar."
 }
