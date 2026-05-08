@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.7",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.7/DT_Controller_v1.1.0.7.zip",
-    "sha256":  "cf5371ac23cea6c83beb5b64d7141312614a1f08d0820be703bee11cec9e1794",
-    "notes":  "Polish the update-notification button: GitHub-green palette, rounded corners, Segoe UI Bold typography, hover/pressed states, hand cursor."
+    "version":  "1.1.0.8",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.8/DT_Controller_v1.1.0.8.zip",
+    "sha256":  "64733adebcad89ffc46e24396f1a10f7b22dec48638e1dbee5a72c6808c2a987",
+    "notes":  "Resilient updater: HTTP Range resume of partial downloads, 5 auto-retries with exponential backoff, 30s per-read idle timeout, SHA256-failed zips discarded so the next attempt starts clean. Helps mainland-China clients hitting GitHub Fastly."
 }
