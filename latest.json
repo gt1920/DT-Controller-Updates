@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.8",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.8/DT_Controller_v1.1.0.8.zip",
-    "sha256":  "64733adebcad89ffc46e24396f1a10f7b22dec48638e1dbee5a72c6808c2a987",
-    "notes":  "Resilient updater: HTTP Range resume of partial downloads, 5 auto-retries with exponential backoff, 30s per-read idle timeout, SHA256-failed zips discarded so the next attempt starts clean. Helps mainland-China clients hitting GitHub Fastly."
+    "version":  "1.1.0.9",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.9/DT_Controller_v1.1.0.9.zip",
+    "sha256":  "2b04ff74f6fd7b56d975ffa03cbbff0836f8b9f3b65fb8fe4cae602d75285e18",
+    "notes":  "UX defaults: step radio defaults to x100 (was x1), Step/s default 5000, temperature/humidity labels stay blank until the device reports a value. Tab / Shift+Tab now cycle the Module list selection instead of moving focus between controls."
 }
