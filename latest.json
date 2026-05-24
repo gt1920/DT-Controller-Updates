@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.11",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.11/DT_Controller_v1.1.0.11.zip",
-    "sha256":  "159095c21ee7bb7466d6a694a1961ce43fa78d8877624fb4d7391c6c8de68558",
-    "notes":  "Build with VS2022 toolchain (no functional change vs v1.1.0.10)"
+    "version":  "1.1.0.12",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.12/DT_Controller_v1.1.0.12.zip",
+    "sha256":  "59c2e2745822159ffd1447bc74fa1446948094975a8f6f23005a35e48a6cb832",
+    "notes":  "Background download now shows a subtle gray hint with percentage (e.g. \u0027Downloading update v1.1.0.12 ... 42%\u0027) instead of being silent."
 }
