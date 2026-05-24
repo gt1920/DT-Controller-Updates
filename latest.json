@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.10",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.10/DT_Controller_v1.1.0.10.zip",
-    "sha256":  "6bc97221cc1dc0c18a083ed052c24354e2444fad76b260652b657a9362dbeb63",
-    "notes":  "Background pre-download — zip cached at startup, click installs instantly (Updater cache-hit via Range/416)"
+    "version":  "1.1.0.11",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.11/DT_Controller_v1.1.0.11.zip",
+    "sha256":  "159095c21ee7bb7466d6a694a1961ce43fa78d8877624fb4d7391c6c8de68558",
+    "notes":  "Build with VS2022 toolchain (no functional change vs v1.1.0.10)"
 }
