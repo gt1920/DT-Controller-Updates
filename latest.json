@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.13",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.13/DT_Controller_v1.1.0.13.zip",
-    "sha256":  "c79fe9a209d2b1844b3ca618c68d296b175e93df7cf335e0c30ed2e795b30c77",
-    "notes":  "No functional change vs v1.1.0.12 — bump to validate v1.1.0.12 client\u0027s gray-progress auto-update path end to end."
+    "version":  "1.1.0.14",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.14/DT_Controller_v1.1.0.14.zip",
+    "sha256":  "16b42f2cabfdd89bddaaeb393d01c3360c0a0b8edf70b3a477c3be6ae6ef4e7b",
+    "notes":  "位置限制由 ±3000 提升至 ±6000，且下沉到 Motor 固件作为硬限位（PC 端不再做软校验，admin 模式绕过失效）"
 }
