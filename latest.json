@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.14",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.14/DT_Controller_v1.1.0.14.zip",
-    "sha256":  "16b42f2cabfdd89bddaaeb393d01c3360c0a0b8edf70b3a477c3be6ae6ef4e7b",
-    "notes":  "位置限制由 ±3000 提升至 ±6000，且下沉到 Motor 固件作为硬限位（PC 端不再做软校验，admin 模式绕过失效）"
+    "version":  "1.1.0.15",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.15/DT_Controller_v1.1.0.15.zip",
+    "sha256":  "cf8792e2db1578ed42b3f26f2f13fe6e687d6d5448a10f2e6ed97aa48b4926c8",
+    "notes":  "Module List / Device List 支持鼠标拖放手动排序：拖动时显示蓝色插入横线、行间留白、文字垂直居中；顺序按模块SN/设备身份记忆并持久化（刷新、重连、重启后保持）。Device List 拖动重排不会切换当前连接的设备。Admin 模式底部 Debug 日志框高度加倍。"
 }
