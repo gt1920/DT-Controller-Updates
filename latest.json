@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.15",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.15/DT_Controller_v1.1.0.15.zip",
-    "sha256":  "cf8792e2db1578ed42b3f26f2f13fe6e687d6d5448a10f2e6ed97aa48b4926c8",
-    "notes":  "Module List / Device List 支持鼠标拖放手动排序：拖动时显示蓝色插入横线、行间留白、文字垂直居中；顺序按模块SN/设备身份记忆并持久化（刷新、重连、重启后保持）。Device List 拖动重排不会切换当前连接的设备。Admin 模式底部 Debug 日志框高度加倍。"
+    "version":  "1.1.0.16",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.16/DT_Controller_v1.1.0.16.zip",
+    "sha256":  "f908f706f290c562290e591a4eddf06a489a40921169970928308dd6c9b672a8",
+    "notes":  "本次更新（v1.1.0.16）：\n- 多模块时 Module INFO 横向并排，一次性列出所有模块。\n- Admin 模式下双击 DEVICE / MODULE INFO 的 Date 可设置“出厂日期”并写入硬件、掉电保留（需配套最新 CIC / 电机固件）；双击 SN 一键复制到剪贴板。\n- 标题栏显示实时时间。\n- 界面排版优化：修复在 100% 缩放电脑上整体挤压；Motion 区按钮（Set 0 / Goto 0 / Test）改横排、分组高度调整；左侧设备/模块列表与信息卡片对齐；Laser Driver 精简（移除 Reboot / Refresh，Upgrade 上移）。\n- User 模式下电流（Cur）与 Offset 只读，仅可调 TH。\n"
 }
