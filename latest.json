@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.19",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.19/DT_Controller_v1.1.0.19.zip",
-    "sha256":  "7d424d786c6e8f8e328c853f67967232f9f5bba1e4f821864db03f038b0b8fc6",
-    "notes":  "本次更新（v1.1.0.19）：\n- Environment 面板新增设备姿态倾角显示：由 CIC 板载 LIS2DH12 加速度计实时提供两轴倾角，竖直安装位归零、0.5° 分辨率、读数平滑稳定（约 0.5 秒刷新、带死区防抖）。需配套最新 CIC 固件方可显示。\n- 优化程序图标。\n"
+    "version":  "1.1.0.20",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.20/DT_Controller_v1.1.0.20.zip",
+    "sha256":  "a217c295a5868c6f76543064754001eda8af37814b696e67201569ddde7a3908",
+    "notes":  "本次更新（v1.1.0.20）：\n- Environment 面板新增设备姿态倾角显示：由 CIC 板载 LIS2DH12 加速度计实时提供两轴倾角，竖直安装位归零、0.5° 分辨率、读数平滑稳定。需配套最新 CIC 固件方可显示。\n- 优化在线更新：安装时复用已下载内容、不再重复下载；并自动修复旧版更新器。\n"
 }
