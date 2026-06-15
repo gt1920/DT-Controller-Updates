@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.16",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.16/DT_Controller_v1.1.0.16.zip",
-    "sha256":  "f908f706f290c562290e591a4eddf06a489a40921169970928308dd6c9b672a8",
-    "notes":  "本次更新（v1.1.0.16）：\n- 多模块时 Module INFO 横向并排，一次性列出所有模块。\n- Admin 模式下双击 DEVICE / MODULE INFO 的 Date 可设置“出厂日期”并写入硬件、掉电保留（需配套最新 CIC / 电机固件）；双击 SN 一键复制到剪贴板。\n- 标题栏显示实时时间。\n- 界面排版优化：修复在 100% 缩放电脑上整体挤压；Motion 区按钮（Set 0 / Goto 0 / Test）改横排、分组高度调整；左侧设备/模块列表与信息卡片对齐；Laser Driver 精简（移除 Reboot / Refresh，Upgrade 上移）。\n- User 模式下电流（Cur）与 Offset 只读，仅可调 TH。\n"
+    "version":  "1.1.0.17",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.17/DT_Controller_v1.1.0.17.zip",
+    "sha256":  "5b51b1081f1a18d85fd2cc217bf5d4f9332b7d0bc912435f97202a86255f1e60",
+    "notes":  "本次更新（v1.1.0.17）：\n- Environment 面板新增设备姿态倾角显示：由 CIC 板载 LIS2DH12 加速度计实时提供两轴倾角，竖直安装位归零、0.5° 分辨率、读数平滑稳定（约 0.5 秒刷新、带死区防抖）。需配套最新 CIC 固件方可显示。\n"
 }
