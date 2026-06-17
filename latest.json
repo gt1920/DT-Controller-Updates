@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0.20",
-    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.20/DT_Controller_v1.1.0.20.zip",
-    "sha256":  "a217c295a5868c6f76543064754001eda8af37814b696e67201569ddde7a3908",
-    "notes":  "本次更新（v1.1.0.20）：\n- Environment 面板新增设备姿态倾角显示：由 CIC 板载 LIS2DH12 加速度计实时提供两轴倾角，竖直安装位归零、0.5° 分辨率、读数平滑稳定。需配套最新 CIC 固件方可显示。\n- 优化在线更新：安装时复用已下载内容、不再重复下载；并自动修复旧版更新器。\n"
+    "version":  "1.1.0.21",
+    "url":  "https://github.com/gt1920/DT-Controller-Updates/releases/download/v1.1.0.21/DT_Controller_v1.1.0.21.zip",
+    "sha256":  "b973cf51f414aa0e4d7055b0b3650a5b90b4cc8d8969eee0de0bc94799c61751",
+    "notes":  "本次更新（v1.1.0.21）：\n- 设备地图（Device Map）编辑模式：未选中的设备现在可直接按住鼠标左键拖动定位，无需先点选再拖。\n- 修复切换 CIC 后激光开关（LASER ON/OFF）需再点击一次才生效的问题：现在无论在设备列表还是设备地图选择任一 CIC，激光开关及 R/G/B 色通道都立即可控其下挂的激光驱动。\n- 设备地图弹窗处于焦点时，Esc（闭光）与 R/G/B 快捷键现在也能正常控制激光。\n"
 }
