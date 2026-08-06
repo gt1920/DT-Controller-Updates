@@ -1,0 +1,4 @@
+
+# 本仓 .git 已改名为 .git_orig，以便外层 ALM_ETH 仓能跟踪本目录的文件。
+# 用法: git --git-dir=.git_orig --work-tree=. <cmd>   (详见 ../README.md)
+.git_orig/
